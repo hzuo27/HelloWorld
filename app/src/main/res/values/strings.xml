@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="sabrina_intro">Hello World! My name is Huizhong, or you can just call me Sabrina. I am a Corgi lover and I also love Android development. Really hoping to learn the Android course with CodePath!</string>
+    <string name="button_text">Say Hello!</string>
+</resources>
